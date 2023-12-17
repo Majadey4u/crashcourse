@@ -1,0 +1,17 @@
+*   m{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.item{
+  width: 100px;
+  height: 100px;
+  background-color: #254de4;
+  color: #fff;
+  margin: 10px; 
+}
